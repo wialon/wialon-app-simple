@@ -13,7 +13,7 @@ LGPL: http://www.gnu.org/licenses/lgpl.html
  * Components: SDK
  * URL params: Active SID, Base URL, Host URL
 
-## Quick start:
+## Quick start
 Apps activation through the management system: http://docs.gurtam.com/en/hosting/cms/apps/apps  
 Working with applications in the GPS tracking system: http://docs.gurtam.com/en/hosting/user/apps/apps
 

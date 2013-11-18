@@ -1,0 +1,19 @@
+body, html, div, pre, button {
+	padding: 0px;
+	margin: 0px;
+	border: 0;
+	vertical-align: baseline;
+}
+
+#main{
+	text-align: center;
+	margin: 40px 0;
+}
+
+#main .title{
+	font-size: 32px;
+}
+
+#main .description{
+	font-size: 20px;
+}

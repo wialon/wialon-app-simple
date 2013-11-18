@@ -1,0 +1,53 @@
+{
+  "name": "simple",
+  "url_name": "simple",
+  "title": "Simple",
+  "description": "Simple template for developing your own Wialon App",
+  "author": {
+    "name": "",
+    "url": "http://gurtam.com"
+  },
+  "dependencies": {
+    "jquery": "1.8.2",
+    "jquery.localisation": "1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wialon/wialon-app-simple"
+  },
+  "keywords": [
+    "wialon",
+    "wialon-apps"
+  ],
+  "version": "1.0",
+  "build_date": "2013-11-18",
+  "licenses": [
+    {
+      "type": "LGPL",
+      "url": "http://www.gnu.org/licenses/lgpl.html"
+    }
+  ],
+  "modules": [
+    "SDK"
+  ],
+  "params": [
+    "Active SID",
+    "Base URL",
+    "Host URL",
+    "Language"
+  ],
+  "language": [
+    "en",
+    "ru"
+  ],
+  "browser": {
+    "ie": "9+",
+    "opera": "10+",
+    "safari": "10+",
+    "chrome": "20+",
+    "firefox": "15+"
+  },
+  "logo": "logo.png",
+  "images_path": "images",
+  "desc_path": "desc"
+}

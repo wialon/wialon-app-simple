@@ -5,7 +5,7 @@ This is WEB application based on Apps from Gurtam (http://apps.wialon.com).
 Simple project with authorization. Use this project to develop your own Wialon App.
 
 ## License
-LGPL: http://www.gnu.org/licenses/lgpl.html
+[The MIT License](../master/LICENSE-MIT)
 
 ## Requirements
  * Browser: Google Chome 20+, Firefox 15+, Safari 5+, IE 9+, Opera 10+

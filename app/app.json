@@ -20,11 +20,11 @@
     "wialon-apps"
   ],
   "version": "1.0",
-  "build_date": "2013-11-18",
+  "build_date": "2013-11-26",
   "licenses": [
     {
-      "type": "LGPL",
-      "url": "http://www.gnu.org/licenses/lgpl.html"
+      "type": "MIT",
+      "url": "https://github.com/wialon/wialon-app-simple/blob/master/LICENSE-MIT"
     }
   ],
   "modules": [

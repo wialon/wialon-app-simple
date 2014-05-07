@@ -77,8 +77,9 @@ function login(code) {
 function initSdk() {
 	console.log( translate("initialize sdk") );
 	var url = getHtmlVar("baseUrl") || getHtmlVar("hostUrl") || "https://hst-api.wialon.com";
+	var user = getHtmlVar("user") || "";
 	wialon.core.Session.getInstance().initSession(url);
-	wialon.core.Session.getInstance().duplicate(getHtmlVar("sid"), "", true, login);
+	wialon.core.Session.getInstance().duplicate(getHtmlVar("sid"), user, true, login);
 }
 
 function ltranslate() {

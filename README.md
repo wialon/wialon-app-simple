@@ -1,4 +1,4 @@
-# Simple, version 1.0: (January 28, 2013)
+# Simple, version 1.1: (May 7, 2014)
 This is WEB application based on Apps from Gurtam (http://apps.wialon.com).
 
 ## Description
@@ -11,7 +11,7 @@ Simple project with authorization. Use this project to develop your own Wialon A
  * Browser: Google Chome 20+, Firefox 15+, Safari 5+, IE 9+, Opera 10+
  * Language: en, ru
  * Components: SDK
- * URL params: Active SID, Base URL, Host URL
+ * URL params: Active SID, Base URL, Host URL, Current user
 
 ## Quick start
 Apps activation through the management system: http://docs.gurtam.com/en/hosting/cms/apps/apps  
@@ -20,3 +20,5 @@ Working with applications in the GPS tracking system: http://docs.gurtam.com/en/
 ## Release History
  * v1.0 (January 28, 2013)
 - initial release
+ * v1.1 (May 7, 2014)
+- operate as user support added

@@ -20,7 +20,8 @@
     "wialon-apps"
   ],
   "version": "1.0",
-  "build_date": "2013-11-26",
+  "build_date": "2014-05-07",
+  "release_date": "2013-01-28",
   "licenses": [
     {
       "type": "MIT",
@@ -28,13 +29,14 @@
     }
   ],
   "modules": [
-    "SDK"
+    "sdk"
   ],
   "params": [
     "Active SID",
     "Base URL",
     "Host URL",
-    "Language"
+    "Language",
+    "Current user"
   ],
   "language": [
     "en",
